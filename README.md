@@ -23,3 +23,7 @@ https://github.com/data-bootcamp-v4/lessons/blob/main/5_6_eda_inf_stats_tableau/
 Experiment Roster (df_final_experiment_clients): A list revealing which clients were part of the grand experiment
 https://github.com/data-bootcamp-v4/lessons/blob/main/5_6_eda_inf_stats_tableau/project/files_for_project/df_final_experiment_clients.txt
 
+Dataframes in python files:
+data Client Profiles = cp
+data Digital Footprints = dfp1 and dfp2
+data Experiment Roster = exc
