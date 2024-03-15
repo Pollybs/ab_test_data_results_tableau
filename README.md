@@ -2,9 +2,11 @@
 
 <a href="https://public.tableau.com/app/profile/regina.pollyana.bernardes/viz/tableau_vanguard_abtest/Story1?publish=yes"> Tableau Visualization </a>
 
+<a href="https://github.com/Pollybs/ab-test-vanguard-tableau-viz/blob/main/Presentation_Vanguard%20A_B_test.pdf"> Final Presentation </a>
+
 This project used a fictitious data set from an A/B test. 
 The dataset was cleaned and manipulated using Python.
-The data was then connected to Tableau Desktop with the aim of analyzing and displaying the results of the A/B test on dashboards and in a Tableau Story.
+The data was then connected to Tableau Desktop to analyze and display the results of the A/B test on dashboards and in a Tableau Story.
 
 
 <h2>Vanguard A/B Test</h2>
