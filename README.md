@@ -10,7 +10,7 @@ Fr: Nettoyage et visualisation de données pour un test A/B
 
 This project involved analyzing a fictitious dataset from an A/B test using Python and Tableau. The dataset was cleaned and manipulated using Python, and then connected to Tableau Desktop for visual analysis. The results of the A/B test were displayed on interactive dashboards and presented in a Tableau Story, providing valuable insights into user behavior and preferences. The project aimed to demonstrate proficiency in data cleaning, manipulation, and visualization, as well as the ability to effectively communicate findings to stakeholders.
 
-<h2>Examples of Charts: </h2>
+<h2>Example of charts: </h2>
 
 ![ab](https://github.com/Pollybs/ab_test_data_results_tableau/blob/main/tableau_projet_ab.jpg)
 
