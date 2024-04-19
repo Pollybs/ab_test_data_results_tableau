@@ -1,5 +1,9 @@
 <h1>A/B Test - Data Cleaning and Data Visualization in Tableau Dashboard </h1>
 
+Fr: Nettoyage et visualisation de données pour un test A/B
+• Python : nettoyage et manipulation des données du test A/B sur un site web
+• Tableau Desktop: élaboration de dashboards permettant de visualiser et bien interpréter les résultats du test A/B
+
 <a href="https://public.tableau.com/app/profile/regina.pollyana.bernardes/viz/tableau_vanguard_abtest/Story1?publish=yes"> Tableau Visualization </a>
 
 <a href="https://github.com/Pollybs/ab-test-vanguard-tableau-viz/blob/main/Presentation_Vanguard%20A_B_test.pdf"> Final Presentation </a>
