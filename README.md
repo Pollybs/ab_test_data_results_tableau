@@ -14,6 +14,8 @@ This project involved analyzing a fictitious dataset from an A/B test using Pyth
 
 ![ab](https://github.com/Pollybs/ab_test_data_results_tableau/blob/main/tableau_projet_ab.jpg)
 
+Example Customer Value Charts
+
 ![ab2](https://github.com/Pollybs/ab_test_data_results_tableau/blob/main/tableau_2.jpg)
 
 <h2>Vanguard A/B Test</h2>
